@@ -1,0 +1,14 @@
+/Users/porter.rasmussen/mycoderepositories/lab_3/bin/Debug/net10.0/lab_3
+/Users/porter.rasmussen/mycoderepositories/lab_3/bin/Debug/net10.0/lab_3.deps.json
+/Users/porter.rasmussen/mycoderepositories/lab_3/bin/Debug/net10.0/lab_3.runtimeconfig.json
+/Users/porter.rasmussen/mycoderepositories/lab_3/bin/Debug/net10.0/lab_3.dll
+/Users/porter.rasmussen/mycoderepositories/lab_3/bin/Debug/net10.0/lab_3.pdb
+/Users/porter.rasmussen/mycoderepositories/lab_3/obj/Debug/net10.0/lab_3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/porter.rasmussen/mycoderepositories/lab_3/obj/Debug/net10.0/lab_3.AssemblyInfoInputs.cache
+/Users/porter.rasmussen/mycoderepositories/lab_3/obj/Debug/net10.0/lab_3.AssemblyInfo.cs
+/Users/porter.rasmussen/mycoderepositories/lab_3/obj/Debug/net10.0/lab_3.csproj.CoreCompileInputs.cache
+/Users/porter.rasmussen/mycoderepositories/lab_3/obj/Debug/net10.0/lab_3.dll
+/Users/porter.rasmussen/mycoderepositories/lab_3/obj/Debug/net10.0/refint/lab_3.dll
+/Users/porter.rasmussen/mycoderepositories/lab_3/obj/Debug/net10.0/lab_3.pdb
+/Users/porter.rasmussen/mycoderepositories/lab_3/obj/Debug/net10.0/lab_3.genruntimeconfig.cache
+/Users/porter.rasmussen/mycoderepositories/lab_3/obj/Debug/net10.0/ref/lab_3.dll
