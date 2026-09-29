@@ -222,3 +222,5 @@ Console.Write("    ");
 //Row 17
 Console.SetCursorPosition(0,17);
 Console.Write("                            ");
+
+Console.BackgroundColor = ConsoleColor.Black;
